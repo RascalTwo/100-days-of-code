@@ -20,3 +20,23 @@
 - Researched solutions to obscure Terragrunt error messages.
 - Repaired user-authentication in Cocktail-discovery MERN application.
 - Setup Toon Boom Harmony development environment with VSCode.
+
+## Day 002: January 3, 2023
+
+|                                                              Codewar                                                               |                                                      LeetCode                                                       |                                                 Quotes                                                  |
+| :--------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------: |
+| [Remove the noise from the string](https://www.codewars.com/kata/reviews/5681d49e73153b608e000036/groups/56f92c42e4d45de6fd000044) | [Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/submissions/870087609/) | [Joker](https://media-quotes.onrender.com/ejs/search?query=My+Life+Is+Nothing+But+A+Comedy&title=Joker) |
+
+- Conquered a phantom serverless-NodeJS error about being unable to create some cache:
+  - Discovered the issue by seeing lines related to cache creation once I turned the logging level up via the [`--loglevel=verbose`](https://docs.npmjs.com/cli/v8/using-npm/logging#loglevel) flag.
+  - Running [`npm`](https://www.npmjs.com/) commands with the `--prefix` flag messed this up - but setting the `npm_config_cache` environment variable to `/tmp/` does the trick!
+  - Led to the discovery that the barely-documented `--prefix` flag appears to be [planned for removal](https://github.com/npm/cli/issues/1368#issuecomment-1241076700).
+- Created [Userscript](https://violentmonkey.github.io/) to add looping functionality to [Canva](https://www.canva.com/) videos for presentations:
+  - ```javascript
+    // Magic script to make Canva videos loop forever, execute when "Rewatch" button is visible at end of video
+    document
+      .evaluate("//p[contains(., 'Rewatch')]", document, null, XPathResult.ANY_TYPE, null)
+      .iterateNext()
+      .closest('div[role="button"]').style.display = 'none';
+    document.querySelector('video').play();
+    ```
