@@ -40,3 +40,12 @@
       .closest('div[role="button"]').style.display = 'none';
     document.querySelector('video').play();
     ```
+
+## Day 003: January 4, 2023
+
+|                                                               Codewar                                                                |                                               Quotes                                               |
+| :----------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------: |
+| [Euclidean distance in n dimensions](https://www.codewars.com/kata/reviews/5681d49e73153b608e000036/groups/56f92c42e4d45de6fd000044) | [Toy Story](https://media-quotes.onrender.com/ejs/search?query=falling+with+style&title=Toy+Story) |
+
+- Took place in Mock Technical & Behavioral Interviews:
+  - Led to the use of a [Circular Buffer / Ring Array](https://www.wikiwand.com/en/Circular_buffer) to add & compare items in constant time.
