@@ -49,3 +49,14 @@
 
 - Took place in Mock Technical & Behavioral Interviews:
   - Led to the use of a [Circular Buffer / Ring Array](https://www.wikiwand.com/en/Circular_buffer) to add & compare items in constant time.
+
+## Day 004: January 5, 2023
+
+|                                                        Codewar                                                         |                                                    Quotes                                                    |
+| :--------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------: |
+| [More Zeros than Ones](https://www.codewars.com/kata/reviews/5d41ffef5f69ba0001ca7bd1/groups/63b71d9f67a144000151e9b3) | [Braveheart](https://media-quotes.onrender.com/ejs/search?query=Not+every+man+really+lives&title=Braveheart) |
+
+- Assisted engineer with dynamically-valued [MUI Autocomplete](https://mui.com/material-ui/react-autocomplete/) controlled component that executed user-submitted code.
+- Corrected manual setup instructions of OSS project.
+- Explored [Admin.js](https://docs.adminjs.co/ui-customization/dashboard-customization) limitations and usability of Custom Components for a more visual & engaging experience.
+- Developed the intersection of the Rerolling and Custom Image features of the [Image Generalization Finder][igf] MERN application.
