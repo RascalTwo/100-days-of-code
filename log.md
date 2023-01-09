@@ -60,3 +60,14 @@
 - Corrected manual setup instructions of OSS project.
 - Explored [Admin.js](https://docs.adminjs.co/ui-customization/dashboard-customization) limitations and usability of Custom Components for a more visual & engaging experience.
 - Developed the intersection of the Rerolling and Custom Image features of the [Image Generalization Finder][igf] MERN application.
+
+## Day 005: January 6, 2023
+
+[vum]: https://github.com/RascalTwo/VideoUserMarkers
+
+|                                                                  Quotes                                                                  |
+| :--------------------------------------------------------------------------------------------------------------------------------------: |
+| [2001: A Space Odyssey](https://media-quotes.onrender.com/ejs/search?query=I%27m+afraid+I+can%27t+do+that&title=2001%3A+A+Space+Odyssey) |
+
+- Released the MVP of [Video User Markers][vum] website.
+- Recovered nearly-lost changes to a `git` repository - don't forget that [`git reflog`](https://git-scm.com/docs/git-reflog) is your friend!
