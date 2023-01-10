@@ -71,3 +71,11 @@
 
 - Released the MVP of [Video User Markers][vum] website.
 - Recovered nearly-lost changes to a `git` repository - don't forget that [`git reflog`](https://git-scm.com/docs/git-reflog) is your friend!
+
+## Day 006: January 7, 2023
+
+|                                                    Quotes                                                    |
+| :----------------------------------------------------------------------------------------------------------: |
+| [Top Gun: Maverick](https://media-quotes.onrender.com/ejs/search?query=Extinction&title=Top+Gun%3A+Maverick) |
+
+- Released [Heroku Migrations](https://rascaltwo.com/blog/heroku-migrations) blog post.
