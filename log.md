@@ -79,3 +79,12 @@
 | [Top Gun: Maverick](https://media-quotes.onrender.com/ejs/search?query=Extinction&title=Top+Gun%3A+Maverick) |
 
 - Released [Heroku Migrations](https://rascaltwo.com/blog/heroku-migrations) blog post.
+
+## Day 007: January 8, 2023
+
+|                                                                      Codewar                                                                      |                                        Quotes                                        |
+| :-----------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------: |
+| [Help Grinch steal Christmas from JS programmers](https://www.codewars.com/kata/reviews/633872d87301f100011c0c99/groups/63a6531b48f9d30001946002) | [Die Hard](https://media-quotes.onrender.com/ejs/search?query=Yippee&title=Die+Hard) |
+
+- Implemented authentication-related messaging for OAuth-based MERN application.
+- Wrote code to implement simplified routing in mockup of a React application.
