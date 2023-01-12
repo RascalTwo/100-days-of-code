@@ -88,3 +88,18 @@
 
 - Implemented authentication-related messaging for OAuth-based MERN application.
 - Wrote code to implement simplified routing in mockup of a React application.
+
+## Day 008: January 9, 2023
+
+[cyclic]: https://www.cyclic.sh/
+
+|                                                       Codewar                                                        |                                                    Quotes                                                     |
+| :------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------: |
+| [Frequency sequence](https://www.codewars.com/kata/reviews/5862b4af877993caae00103d/groups/63bc6f1d3701370001baa564) | [The Sixth Sense](https://media-quotes.onrender.com/ejs/search?query=I+see+dead+people&title=The+Sixth+Sense) |
+
+- Assisted engineer setting up production-ready deployment of a Monorepo MERN application to [Cyclic.sh][cyclic].
+- Setup production deployment of OpenAPI-based MERN application to [Cyclic.sh][cyclic].
+- Researched unexpected breaking-changes to the [EDAMAN Food API](https://developer.edamam.com/food-database-api-docs):
+  - Passing a brand to `ingr` was previously handled, but now returns an `java.lang.IllegalArgumentException` error.
+  - Must now be passed under the `brand` parameter.
+- Collaborated on the design of a social Recipe MERN application.
