@@ -103,3 +103,14 @@
   - Passing a brand to `ingr` was previously handled, but now returns an `java.lang.IllegalArgumentException` error.
   - Must now be passed under the `brand` parameter.
 - Collaborated on the design of a social Recipe MERN application.
+
+## Day 009: January 10, 2023
+
+|                                                      Codewar                                                       |                                                  Quotes                                                   |
+| :----------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------: |
+| [Doubleton number](https://www.codewars.com/kata/reviews/604287c26f2b2b00019ca1e4/groups/63bdb695ae550f0001cc5353) | [The Truman Show](https://media-quotes.onrender.com/ejs/search?query=Say+Something&title=The+Truman+Show) |
+
+- Customized GatsbyJS application to support more dynamic data.
+- Resolved an issue with successful & failure models not appearing on a React-based Contact Form.
+- Hooked up HTML5 Canvas output to a file input.
+- Implemented Embedability in [Video User Markers][vum].
