@@ -114,3 +114,14 @@
 - Resolved an issue with successful & failure models not appearing on a React-based Contact Form.
 - Hooked up HTML5 Canvas output to a file input.
 - Implemented Embedability in [Video User Markers][vum].
+
+## Day 010: January 11, 2023
+
+|                                                       Codewar                                                        |                                                                     LeetCode                                                                      |                                                          Quotes                                                          |
+| :------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------: |
+| [Make a square box!](https://www.codewars.com/kata/reviews/58796860c0f4cbb6740005ba/groups/63beec305ee66e00019d00cf) | [Minimum Time to Collect All Apples in a Tree](https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree/submissions/876258013/) | [The Wolf of Wall Street](https://media-quotes.onrender.com/ejs/search?query=nobody+knows&title=The+Wolf+of+Wall+Street) |
+
+- Refactored React-Query-based protected routes.
+- Improve usability of [Video User Markers][vum]:
+  - Made the parsing of raw markers more robust.
+  - Implemented Markdown rendering of descriptions.
