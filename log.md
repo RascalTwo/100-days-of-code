@@ -125,3 +125,16 @@
 - Improve usability of [Video User Markers][vum]:
   - Made the parsing of raw markers more robust.
   - Implemented Markdown rendering of descriptions.
+
+## Day 011: January 12, 2023
+
+|                                                      Codewar                                                      |                                                                            LeetCode                                                                             |                                                    Quotes                                                     |
+| :---------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------: |
+| [Run your String](https://www.codewars.com/kata/reviews/54cb616e4fdf30334a000296/groups/54cf832b6b85dc5e63000df8) | [Number of Nodes in the Sub-Tree With the Same Label](https://leetcode.com/problems/number-of-nodes-in-the-sub-tree-with-the-same-label/submissions/876724685/) | [Shutter Island](https://media-quotes.onrender.com/ejs/search?query=You+Came+Here+Alone&title=Shutter+Island) |
+
+- Guided college through getting their pet adoption application production ready & deployed.
+- Made [Video User Markers][vum] more appealing to third parties:
+  - Added URL-powered data loading and dedicated `<iframe>`-able pages.
+  - Ability to clone and fork existing collections, with collection creation form directly linkable.
+  - Implemented rich embed support, both generically and for Discord.
+
