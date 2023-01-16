@@ -138,3 +138,12 @@
   - Ability to clone and fork existing collections, with collection creation form directly linkable.
   - Implemented rich embed support, both generically and for Discord.
 
+## Day 012: January 13, 2023
+
+|                                                      Codewar                                                      |                                                                    Quotes                                                                     |
+| :---------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------: |
+| [Assemble String](https://www.codewars.com/kata/reviews/6210fc41cf0a220001821f42/groups/63c1836e4dc4530001f427e2) | [Monty Python and the Holy Grail](https://media-quotes.onrender.com/ejs/search?query=Tis+but+a+scratch&title=Monty+Python+and+the+Holy+Grail) |
+
+- Implemented importing of initial YouTube chapters into Markers to [Video User Markers][vum].
+- Additionally added customizable sorting on all [Video User Markers][vum] listing-pages.
+
