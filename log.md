@@ -147,3 +147,14 @@
 - Implemented importing of initial YouTube chapters into Markers to [Video User Markers][vum].
 - Additionally added customizable sorting on all [Video User Markers][vum] listing-pages.
 
+## Day 013: January 14, 2023
+
+[render]: https://render.com/
+
+|                                                  Quotes                                                  |
+| :------------------------------------------------------------------------------------------------------: |
+| [Finding Nemo](https://media-quotes.onrender.com/ejs/search?query=Just+keep+swimming&title=Finding+Nemo) |
+
+- Dockerized & deployed a Java Spring Boot project to [Render][render].
+- Released [Getting Production Ready](https://rascaltwo.com/blog/getting-production-ready) blog post.
+
