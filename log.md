@@ -158,3 +158,11 @@
 - Dockerized & deployed a Java Spring Boot project to [Render][render].
 - Released [Getting Production Ready](https://rascaltwo.com/blog/getting-production-ready) blog post.
 
+## Day 014: January 15, 2023
+
+|                                                         Codewar                                                         |                                                  Quotes                                                  |
+| :---------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------: |
+| [Address Book by State](https://www.codewars.com/kata/reviews/5a7c604b5d173c9d40000a6a/groups/63c468563841230001d86554) | [Finding Dory](https://media-quotes.onrender.com/ejs/search?query=just+keep+swimming&title=Finding+Dory) |
+
+- Created MVP for serverless NPM CWD-changing errors.
+
