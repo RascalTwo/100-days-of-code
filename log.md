@@ -166,3 +166,13 @@
 
 - Created MVP for serverless NPM CWD-changing errors.
 
+## Day 015: January 16, 2023
+
+[mq-api]: https://github.com/RascalTwo/Quotes
+
+|                                                       Codewar                                                       |                                        Leetcode                                         |                                                  Quotes                                                   |
+| :-----------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------: |
+| [Alternating Loops](https://www.codewars.com/kata/reviews/55e52b5e910dcb94300000b1/groups/63c573840b23c40001a1a772) | [Insert Interval](https://leetcode.com/problems/insert-interval/submissions/879304840/) | [Gone with the Wind](https://media-quotes.onrender.com/ejs/search?query=frankly&title=Gone+with+the+Wind) |
+
+- Implemented Dark theme within [Video User Markers][vum].
+- Added media-dropping script to [Media Quotes][mq-api].
