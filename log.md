@@ -176,3 +176,13 @@
 
 - Implemented Dark theme within [Video User Markers][vum].
 - Added media-dropping script to [Media Quotes][mq-api].
+
+## Day 016: January 17, 2023
+
+|                                                      Codewar                                                      |                                                           LeetCode                                                            |                                               Quotes                                                |
+| :---------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------: |
+| [Combinator Flip](https://www.codewars.com/kata/reviews/541b66f0dc648f86910001e3/groups/55c7eb6442b45991230000ff) | [Flip String to Monotone Increasing](https://leetcode.com/problems/flip-string-to-monotone-increasing/submissions/880000019/) | [Inside Out](https://media-quotes.onrender.com/ejs/search?query=inside+their+head&title=Inside+Out) |
+
+- Added XPI-publishing script & Landing Page to [Video User Markers][vum].
+- Implemented authentication in a social Recipe-based MERN application.
+
