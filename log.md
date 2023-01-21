@@ -186,3 +186,15 @@
 - Added XPI-publishing script & Landing Page to [Video User Markers][vum].
 - Implemented authentication in a social Recipe-based MERN application.
 
+## Day 017: January 18, 2023
+
+[pws]: https://github.com/RascalTwo/PairwiseSorter
+
+|                                                   Codewar                                                    |                                                      LeetCode                                                       |                                                    Quotes                                                    |
+| :----------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------: |
+| [Free Pizza](https://www.codewars.com/kata/reviews/5962e9f9c409116f9d001677/groups/63c8075c39c9410001d191e3) | [Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/submissions/880605435/) | [Catch Me If You Can](https://media-quotes.onrender.com/ejs/search?query=catch+me&title=Catch+Me+If+You+Can) |
+
+- Various [Pairwise Sorter][pws] improvements:
+  - Implemented sorting-persistance when deleting items.
+  - Resolved edge-case issue when deleting items.
+- Resolved rendering issue with [Media Quotes API][mq-api].
