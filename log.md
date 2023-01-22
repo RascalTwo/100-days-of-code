@@ -198,3 +198,14 @@
   - Implemented sorting-persistance when deleting items.
   - Resolved edge-case issue when deleting items.
 - Resolved rendering issue with [Media Quotes API][mq-api].
+
+## Day 018: January 19, 2023
+
+|                                                       Codewar                                                       |                                                     LeetCode                                                      |                                                       Quotes                                                        |
+| :-----------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------: |
+| [Trimming a string](https://www.codewars.com/kata/reviews/563fb348f47611dae800003e/groups/63c9ba2bb7f1970001ef5fce) | [Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/submissions/881474264/) | [James and the Giant Peach](https://media-quotes.onrender.com/ejs/?query=top+of+it&title=James+and+the+Giant+Peach) |
+
+- Setup CI/CD for a Next.js project.
+- Optimized deployment of scheduling application, additionally assisted implementing welcoming of new users.
+- Implemented welcoming of new users
+
