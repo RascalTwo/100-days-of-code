@@ -209,3 +209,13 @@
 - Optimized deployment of scheduling application, additionally assisted implementing welcoming of new users.
 - Implemented welcoming of new users
 
+## Day 019: January 20, 2023
+
+|                                                                      Codewar                                                                       |                                                    LeetCode                                                     |                                                    Quotes                                                    |
+| :------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------: |
+| [How fast can the burglar steal all the diamonds?](https://www.codewars.com/kata/reviews/63a1a8f8ba5c59000119c4d0/groups/63cadf324907d80001c27fd1) | [Non-decreasing Subsequences](https://leetcode.com/problems/non-decreasing-subsequences/submissions/881987038/) | [Alita: Battle Angel](https://media-quotes.onrender.com/?title=Alita%3A+Battle+Angel&query=presence+of+evil) |
+
+- Implemented Lazy-Loading of custom items in [Pairwise Sorter][pws], accompanied by explicit confirmation dialogs before deletion & resetting.
+- Participated in a Technical Assessment.
+- Assisted college in setup of a TypeScript project.
+
