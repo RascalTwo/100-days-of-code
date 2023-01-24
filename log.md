@@ -219,3 +219,14 @@
 - Participated in a Technical Assessment.
 - Assisted college in setup of a TypeScript project.
 
+## Day 020: January 21, 2023
+
+|                                                                  Codewar                                                                  |                                            LeetCode                                             |                                          Quotes                                          |
+| :---------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------: |
+| [Find the Nexus of the Codewars Universe](https://www.codewars.com/kata/reviews/57bfc1c12328dfb7bf000008/groups/63cc1bfacb15720001439323) | [Restore IP Address](https://leetcode.com/problems/restore-ip-addresses/submissions/882563698/) | [Aladdin](https://media-quotes.onrender.com/?title=Aladdin&query=Genie%2C+you%27re+free) |
+
+- Add search functionality to [Pairwise Sorter][pws], additionally normalized rendering of items.
+- Participated in a Technical Assessment.
+- Fixed initial collection parsing issue in [Video User Markers][vum].
+
+
