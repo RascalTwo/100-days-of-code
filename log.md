@@ -229,4 +229,18 @@
 - Participated in a Technical Assessment.
 - Fixed initial collection parsing issue in [Video User Markers][vum].
 
+## Day 021: January 22, 2023
+
+|                                                   Codewar                                                   |                                                LeetCode                                                 |                                        Quotes                                         |
+| :---------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------: |
+| [Smart Sum](https://www.codewars.com/kata/reviews/58312013b812b8016d000096/groups/63cd8868568d480001d96e6d) | [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/submissions/883259556/) | [The Iron Giant](https://media-quotes.onrender.com/?query=I+fix&title=The+Iron+Giant) |
+
+- Implement client-side dynamic searching in [Pairwise Sorter][pws] with highlighting, additionally the ability for users to see completed items sorted.
+- Various [Video User Marker][vum] improvements:
+  - Added Quickstart page.
+  - Stabilize sorting.
+  - Improve extension stability & resilience.
+  - Automatically pause videos during the creation of markers.
+  - Document API for third-party usage.
+
 
