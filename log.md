@@ -243,4 +243,13 @@
   - Automatically pause videos during the creation of markers.
   - Document API for third-party usage.
 
+## Day 022: January 23, 2023
+
+|                                                     Codewar                                                      |                                            LeetCode                                             |                                  Quotes                                  |
+| :--------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------: |
+| [Perfect Square](https://www.codewars.com/kata/reviews/584eb705e07fd70844000a9e/groups/63ceb7310592720001a4e9ef) | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/submissions/883811196/) | [Se7en](https://media-quotes.onrender.com/?query=in+the+box&title=Se7en) |
+
+- Setup CRX generation of [Video User Markers][vum].
+- Resolve modal styling & user directing issues in event-scheduling application.
+
 
