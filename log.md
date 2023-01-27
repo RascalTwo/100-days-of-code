@@ -252,4 +252,12 @@
 - Setup CRX generation of [Video User Markers][vum].
 - Resolve modal styling & user directing issues in event-scheduling application.
 
+## Day 023: January 24, 2023
+
+|                                                                     Codewar                                                                     |                                           LeetCode                                            |                                            Quotes                                            |
+| :---------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------: |
+| [RoboScript #1 - Implement Syntax Highlighting](https://www.codewars.com/kata/reviews/5870a9f4548efaf35e00111f/groups/63cff93279a532000181e523) | [Snakes and Ladders](https://leetcode.com/problems/snakes-and-ladders/submissions/884438725/) | [The WIcker Man](https://media-quotes.onrender.com/?title=The+Wicker+Man&query=not+the+bees) |
+
+- Converted EJS to JSX in [Video User Markers][vum].
+
 
