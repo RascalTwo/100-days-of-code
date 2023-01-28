@@ -260,4 +260,11 @@
 
 - Converted EJS to JSX in [Video User Markers][vum].
 
+## Day 024: January 25, 2023
+
+|                                                    Quotes                                                    |
+| :----------------------------------------------------------------------------------------------------------: |
+| [How to Train Your Dragon](https://media-quotes.onrender.com/?query=gestured&title=How+to+Train+Your+Dragon) |
+
+- Started backend-deployment simulator.
 
