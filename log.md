@@ -268,3 +268,12 @@
 
 - Started backend-deployment simulator.
 
+## Day 025: January 26, 2023
+
+|                                                                 Codewar                                                                  |                                                            Quotes                                                             |
+| :--------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------: |
+| [Sort Strings by Most Contiguous Vowels](https://www.codewars.com/kata/reviews/5d305f3f5228cc0001e4967b/groups/63d2e2975e25f20001f4c533) | [How to Train Your Dragon 2](https://media-quotes.onrender.com/?query=control+of+bad+people&title=How+to+Train+Your+Dragon+2) |
+
+- Participated in [Together][together] demo to [Cyclic.sh][cyclic].
+- Optimized custom-item-loading in [Pairwise Sorter][pws].
+
