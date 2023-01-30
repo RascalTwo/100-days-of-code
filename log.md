@@ -277,3 +277,11 @@
 - Participated in [Together][together] demo to [Cyclic.sh][cyclic].
 - Optimized custom-item-loading in [Pairwise Sorter][pws].
 
+## Day 026: January 27, 2023
+
+|                                                              Codewar                                                               |                                                                             Quotes                                                                             |
+| :--------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| [Simple Fun #51: Election Winners](https://www.codewars.com/kata/reviews/58881c042e973aab72001f51/groups/63d4166763ffb400010f71b9) | [How to Train Your Dragon: The Hidden World](https://media-quotes.onrender.com/?query=with+love+comes+loss&title=How+to+Train+Your+Dragon%3A+The+Hidden+World) |
+
+- Add Renaming & Deletion actions to comparison view, and conditional custom item rendering based on current view to [Pairwise Sorter][pws].
+
