@@ -285,3 +285,11 @@
 
 - Add Renaming & Deletion actions to comparison view, and conditional custom item rendering based on current view to [Pairwise Sorter][pws].
 
+## Day 027: January 28, 2023
+
+|                                                         Codewar                                                          |                                       Quotes                                        |
+| :----------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------: |
+| [Remove the parentheses](https://www.codewars.com/kata/reviews/5f8716db6ddaa30001d6378a/groups/63d57bbbddf4f50001a252c0) | [Astro Boy](https://media-quotes.onrender.com/?query=old+fashioned&title=Astro+Boy) |
+
+- Add raw Video/Audio support to [Video User Markers][vum].
+
