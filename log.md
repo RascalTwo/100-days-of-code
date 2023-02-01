@@ -293,3 +293,11 @@
 
 - Add raw Video/Audio support to [Video User Markers][vum].
 
+## Day 028: January 29, 2023
+
+|                                                                   Codewar                                                                   |                                                Quotes                                                |
+| :-----------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------: |
+| [The unknown but known variables: Addition](https://www.codewars.com/kata/reviews/5719325c4c82d0a01f00006c/groups/63d6b8700aa2010001462e2b) | [Groundhog Day](https://media-quotes.onrender.com/?query=is+it+snowing+in+space&title=Groundhog+Day) |
+
+- Got Production-Deployment simulator to a publicly usable state.
+
