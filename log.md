@@ -301,3 +301,11 @@
 
 - Got Production-Deployment simulator to a publicly usable state.
 
+## Day 029: January 30, 2023
+
+|                                                               Codewar                                                               |                                               Leetcode                                                |                                 Quotes                                  |
+| :---------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------: |
+| [Thinkful - Object Drills: Vectors](https://www.codewars.com/kata/reviews/5a1c5aaa3d6f011119001da7/groups/5f561ad415fbdc000188fd37) | [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/submissions/888367083/) | [Jaws](https://media-quotes.onrender.com/?query=bigger+boat&title=Jaws) |
+
+- Completed a Frontend technical assessment
+
