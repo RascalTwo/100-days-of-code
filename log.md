@@ -309,3 +309,12 @@
 
 - Completed a Frontend technical assessment
 
+## Day 030: January 31, 2023
+
+|                                                      Codewar                                                      |                                             Quotes                                              |
+| :---------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------: |
+| [Cyclops numbers](https://www.codewars.com/kata/reviews/5e83db0fee30ee0001df84dc/groups/63d96d4b0a865a00016c9810) | [Ratatouille](https://media-quotes.onrender.com/?query=fearless+can+be+great&title=Ratatouille) |
+
+- Populate deployment simulator with various defaults
+- Assisted debugging and proper association of Sequelize entities.
+
