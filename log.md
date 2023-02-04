@@ -318,3 +318,11 @@
 - Populate deployment simulator with various defaults
 - Assisted debugging and proper association of Sequelize entities.
 
+## Day 031: February 01, 2023
+
+|                                                          Codewar                                                          |                                                           LeetCode                                                            |                                                         Quotes                                                         |
+| :-----------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------: |
+| [1's, 0's, and wildcards](https://www.codewars.com/kata/reviews/588f504dc67019652e0012b0/groups/63dae9e5fd54250001e515f3) | [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/submissions/889711382/) | [Mr. & Mrs. Smitch](https://media-quotes.onrender.com/?query=name+and+social+security+number&title=Mr.+%26+Mrs.+Smith) |
+
+- Improve usage of fully-sorted lists in [Pairwise Sorter][pws].
+
