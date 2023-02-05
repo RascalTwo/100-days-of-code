@@ -326,3 +326,13 @@
 
 - Improve usage of fully-sorted lists in [Pairwise Sorter][pws].
 
+## Day 032: February 02, 2023
+
+|                                                                      Codewar                                                                       |                                                      LeetCode                                                       |                                                     Quotes                                                     |
+| :------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------: |
+| [Unknown amount of duplicates. One missing number](https://www.codewars.com/kata/reviews/5b8cea4a6645f1b991000342/groups/63dbb6b5d919fb00012bfd7c) | [Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/submissions/890060500/) | [Treasure Planet](https://media-quotes.onrender.com/?query=help+people+with+a+doctorate&title=Treasure+Planet) |
+
+- Add cloning to [Pairwise Sorter][pws] lists and improved searching responsiveness.
+- Assisted in getting [100Devs-MERN-Starter-Kit](https://github.com/isaaclee12/100Devs-MERN-Starter-Kit) production-ready.
+- Participated in JavaScript technical assessment.
+
