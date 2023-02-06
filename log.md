@@ -336,3 +336,13 @@
 - Assisted in getting [100Devs-MERN-Starter-Kit](https://github.com/isaaclee12/100Devs-MERN-Starter-Kit) production-ready.
 - Participated in JavaScript technical assessment.
 
+## Day 033: February 03, 2023
+
+|                                                      Codewar                                                      |                                          LeetCode                                           |                                        Quotes                                        |
+| :---------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------: |
+| [Nothing special](https://www.codewars.com/kata/reviews/5871f3a8c7e00b129400025c/groups/5871f3a8c7e00b1294000260) | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/submissions/890725985/) | [Logan](https://media-quotes.onrender.com/?query=Someone+HAS+come+along&title=Logan) |
+
+- Fixed unresponsive landing page layouts.
+- Created automated post-responding Playwright script.
+- Assisted teammate with [Together][together] issue and malformed git repository.
+
