@@ -346,3 +346,11 @@
 - Created automated post-responding Playwright script.
 - Assisted teammate with [Together][together] issue and malformed git repository.
 
+## Day 034: February 04, 2023
+
+|                                                  Codewar                                                  |                                              LeetCode                                               |                                              Quotes                                              |
+| :-------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------: |
+| [Ziiiiip](https://www.codewars.com/kata/reviews/5298ad7cd0f550269500051e/groups/63deda963c1f520001ecf269) | [Permutation in String](https://leetcode.com/problems/permutation-in-string/submissions/891616146/) | [The Lego Movie](https://media-quotes.onrender.com/?query=total+perfection&title=The+Lego+Movie) |
+
+- Participated in Takehome Web Development assessment.
+
