@@ -354,3 +354,11 @@
 
 - Participated in Takehome Web Development assessment.
 
+## Day 035: February 05, 2023
+
+|                                                       Codewar                                                       |                                          LeetCode                                           |                                         Quotes                                         |
+| :-----------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------: |
+| [What comes after?](https://www.codewars.com/kata/reviews/590f7c32415127c7530003a2/groups/63e04f7f5431af0001416944) | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/submissions/892327041/) | [That '70s Show](https://media-quotes.onrender.com/?query=foot&title=That+%2770s+Show) |
+
+- Setup song-processing pipeline.
+
