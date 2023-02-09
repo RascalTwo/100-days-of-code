@@ -362,3 +362,7 @@
 
 - Setup song-processing pipeline.
 
+## Day 036: February 06, 2023
+
+- Created Cypress E2E tests for [Together][together].
+
