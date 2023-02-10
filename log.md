@@ -366,3 +366,7 @@
 
 - Created Cypress E2E tests for [Together][together].
 
+## Day 037: February 07, 2023
+
+- Finished Cypress E2E tests [Together][together].
+
