@@ -370,3 +370,13 @@
 
 - Finished Cypress E2E tests [Together][together].
 
+## Day 038: February 08, 2023
+
+|                                                               Codewar                                                               |                                          Quotes                                           |
+| :---------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------: |
+| [Parse a linked list from a string](https://www.codewars.com/kata/reviews/582ff15655f28efa32000046/groups/63e3ccdecff68500012368bf) | [Ford v Ferrari](https://media-quotes.onrender.com/?query=go+to+war&title=Ford+v+Ferrari) |
+
+- Managed user & organization OneDrive permissions.
+- Debugged cross-platform incompatibility issues with production-deployment.
+- Participated in Technical Assessment.
+
