@@ -398,3 +398,8 @@
 | :--------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------: |
 | [Is there an Odd Bit?](https://www.codewars.com/kata/reviews/5ea5c0ab1be43d000155c119/groups/63e67ed0cd329c0001a0eb3a) | [Django Unchained](https://media-quotes.onrender.com/?query=curious+what+makes+you+so+curious&title=Django+Unchained) |
 
+## Day 041: February 12, 2023
+
+- Assisted in setup of CI & CD for [Together][together].
+- Onboarded new developer into Blazor project.
+
