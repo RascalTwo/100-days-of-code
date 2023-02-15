@@ -403,3 +403,11 @@
 - Assisted in setup of CI & CD for [Together][together].
 - Onboarded new developer into Blazor project.
 
+## Day 042: February 13, 2023
+
+|                                                         Codewar                                                          |                                                               LeetCode                                                                |                                      Quotes                                      |
+| :----------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------: |
+| [A Promise is a Promise](https://www.codewars.com/kata/reviews/5b61e20696bcb1f8750012df/groups/61da8dfe70fffc0001dd7906) | [Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/submissions/897209845/) | [The Shining](https://media-quotes.onrender.com/?query=Johnny&title=The+Shining) |
+
+- Guided new developer through Cypress testing methodologies.
+
