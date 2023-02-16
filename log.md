@@ -411,3 +411,12 @@
 
 - Guided new developer through Cypress testing methodologies.
 
+## Day 043: February 14, 2023
+
+|                                                     Codewar                                                      |                                   LeetCode                                    |                                                       Quotes                                                       |
+| :--------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------: |
+| [Binary Cleaner](https://www.codewars.com/kata/reviews/5b50975e75d05b1c57001355/groups/63ebb057c0acee0001213702) | [Add Binary](https://leetcode.com/problems/add-binary/submissions/897923054/) | [Person Of Interest](https://media-quotes.onrender.com/?query=card+but+they+were+all+out&title=Person+Of+Interest) |
+
+- Guided developer through implementation of new UI elements in [Together][together].
+- Debugged issue with experimental [--watch] Node.js flag infinite looping.
+
