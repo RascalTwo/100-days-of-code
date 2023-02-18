@@ -429,3 +429,11 @@
 - Narrowed scope of Node.js dependency resolution inconsistency.
 - Assisted college with technical branding.
 
+## Day 045: February 16, 2023
+
+|                                                             Codewar                                                             |                                            Quotes                                             |
+| :-----------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------: |
+| [The Queen Of Hearts Challenge](https://www.codewars.com/kata/reviews/561e7f2208e85a6ab600001b/groups/561e9975592af1e1a00000cf) | [Casablanca](https://media-quotes.onrender.com/?title=Casablanca&query=looking+at+you%2C+kid) |
+
+- Took Software Engineer Assessment.
+
