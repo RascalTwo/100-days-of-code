@@ -437,3 +437,12 @@
 
 - Took Software Engineer Assessment.
 
+## Day 046: February 17, 2023
+
+|                                       Quotes                                        |
+| :---------------------------------------------------------------------------------: |
+| [Titanic](https://media-quotes.onrender.com/?query=king+of+the+world&title=Titanic) |
+
+- Setup custom audio player server -> client delivery & client event handling.
+- Assisted college in fleshing out full database schema and with deployment issues.
+
