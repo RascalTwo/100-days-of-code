@@ -446,3 +446,12 @@
 - Setup custom audio player server -> client delivery & client event handling.
 - Assisted college in fleshing out full database schema and with deployment issues.
 
+## Day 047: February 18, 2023
+
+|                                                           Codewar                                                           |                                           LeetCode                                            |                                               Quotes                                                |
+| :-------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------: |
+| [Distance from the average](https://www.codewars.com/kata/reviews/56900ee06eb85d8886000057/groups/63f0fbab8ec1870001a252be) | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/submissions/900456329/) | [The Princess Bride](https://media-quotes.onrender.com/?query=as+you+wish&title=The+Princess+Bride) |
+
+- Assisted with Together deployment migration issues.
+- Advised on setup of collaborative environment for new team.
+
