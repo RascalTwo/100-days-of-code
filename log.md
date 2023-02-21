@@ -455,3 +455,11 @@
 - Assisted with Together deployment migration issues.
 - Advised on setup of collaborative environment for new team.
 
+## Day 048: February 20, 2023
+
+|                                                     Codewar                                                      |                                               LeetCode                                                |                                         Quotes                                          |
+| :--------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------: |
+| [No ifs no buts](https://www.codewars.com/kata/reviews/59291abbcae4cb7a63000739/groups/63f367c1178f4e000145f574) | [Search Insert Position](https://leetcode.com/problems/search-insert-position/submissions/901872435/) | [Pretty Woman](https://media-quotes.onrender.com/?query=Big+mistake&title=Pretty+Woman) |
+
+- Started HeyGPT
+
