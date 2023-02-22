@@ -463,3 +463,11 @@
 
 - Started HeyGPT
 
+## Day 049: February 21, 2023
+
+|                                                               Codewar                                                               |                                                         LeetCode                                                          |                                              Quotes                                              |
+| :---------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------: |
+| [One line task: Square Every Digit](https://www.codewars.com/kata/reviews/5acd1e3aaa15365f6b000c0e/groups/5acd4820a1c4d6c0a800131c) | [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/submissions/902278188/) | [A Few Good Men](https://media-quotes.onrender.com/?query=handle+the+truth&title=A+Few+Good+Men) |
+
+- Assisted college with Cypress testing
+
